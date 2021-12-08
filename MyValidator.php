@@ -5,7 +5,6 @@ include_once 'vendor/autoload.php';
 use Symfony\Component;
 use Symfony\Component\Validator\Validation;
 use Symfony\Component\Validator\Constraints as Assert;
-use Symfony\Component\Validator\ValidatorBuilder;
 
 class MyValidator
 {
